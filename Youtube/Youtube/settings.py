@@ -25,7 +25,7 @@ SECRET_KEY = '(1#7xds%zx8y&xz0ou5p(z!&+ga$^-#j2(p877r2^bcs__z(=o'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['192.168.1.5']
 
 
 # Application definition
@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',
-    'YoutubeAPI'
+    'YoutubeAPI.apps.YoutubeapiConfig'
 ]
 
 MIDDLEWARE = [

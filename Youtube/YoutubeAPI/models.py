@@ -10,6 +10,8 @@ class Song(models.Model):
     thumbnail = models.CharField(max_length=100)
     artist = models.CharField(max_length=100)
     duration = models.CharField(max_length=100)
+    slug = models.SlugField(blank=True, unique=True)
+
 
     def __str__(self):
         return self.title

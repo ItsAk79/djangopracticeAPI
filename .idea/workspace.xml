@@ -14,7 +14,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZRSVGWBPgrj22EwCfYAve6EExR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,6 +28,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
   </component>
   <component name="RunManager">
@@ -33,6 +38,7 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="API.settings" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -61,11 +67,49 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584800434973</updated>
-      <workItem from="1584800440917" duration="8342000" />
+      <workItem from="1584800440917" duration="12792000" />
+      <workItem from="1584886118114" duration="1463000" />
+      <workItem from="1584888003821" duration="77000" />
+      <workItem from="1584892322740" duration="726000" />
+      <workItem from="1585059602070" duration="124000" />
+      <workItem from="1585165767686" duration="437000" />
+      <workItem from="1585166748634" duration="185000" />
+      <workItem from="1585227204650" duration="4258000" />
+      <workItem from="1585303037374" duration="5655000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584880632834">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1584880632834" />
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom" timestamp="1585645538042">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1585645538042" />
+    <state width="1398" height="212" key="GridCell.Tab.0.center" timestamp="1585645538041">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1585645538041" />
+    <state width="1398" height="212" key="GridCell.Tab.0.left" timestamp="1585645538040">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1585645538040" />
+    <state width="1398" height="212" key="GridCell.Tab.0.right" timestamp="1585645538042">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1585645538042" />
+    <state x="385" y="197" key="run.anything.popup" timestamp="1585642544740">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="385" y="197" key="run.anything.popup/0.23.1440.828@0.23.1440.828" timestamp="1585642544740" />
+    <state x="385" y="175" width="670" height="676" key="search.everywhere.popup" timestamp="1585641495562">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="385" y="175" width="670" height="676" key="search.everywhere.popup/0.23.1440.828@0.23.1440.828" timestamp="1585641495562" />
   </component>
 </project>
